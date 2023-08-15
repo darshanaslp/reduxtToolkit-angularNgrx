@@ -1,0 +1,15 @@
+.alert {
+    position: fixed;
+    top: 10px;
+    right: 10px;
+    width: 300px;
+    opacity: 0.9;
+    display: none;
+  }
+  
+  .alert.alert-success {
+    background-color: #d4edda;
+    color: #155724;
+  }
+  
+ 
