@@ -40,7 +40,7 @@ Then type  `npm install`
 Open your browse to `localhost:4000`
 
 
-#  React Frontend
+#  React Redux Toolkit Frontend
 
 ## Project structure
 
@@ -66,6 +66,45 @@ Open your browse to `localhost:4000`
 - React-strap (Bootstrap) CSS framework for styling
 - React
 - Redux Toolkit
+- Eslint
+
+## How to run locally
+
+Clone or download project go to the Front-end
+Inside Front-end open node console
+
+Then type  `npm install`
+ Run `npm start` if you have node installed locally.
+ 
+Open your browse to `localhost:3000`
+
+
+#  React Context API Frontend
+
+## Project structure
+
+-public
+
+-src
+
+ --component
+
+ --service
+ 
+ --contex
+
+  -app
+
+  -test
+  
+  -index
+
+
+## Tech used
+
+- React-strap (Bootstrap) CSS framework for styling
+- React
+- Context api
 - Eslint
 
 ## How to run locally
